@@ -18,17 +18,17 @@ So, What Admin, Can Basically Do :-
 
 #The Data You Are Inserting Should Be Like This :-
 
-Company - Asus
-TypeName - Notebook
-Inches - 15.6
-ScreenResolution - 4k IPS Retina Display
-Cpu - Intel i5 11th Gen
-Ram - 8GB
-Storage - 128GB SSD
-Gpu - Nvidia GeForce RTX 1050
-OpSys - Windows 11
-Weight - 2.13kg
-Price - 56000
+Company - Asus,
+TypeName - Notebook,
+Inches - 15.6,
+ScreenResolution - 4k IPS Retina Display,
+Cpu - Intel i5 11th Gen,
+Ram - 8GB,
+Storage - 128GB SSD,
+Gpu - Nvidia GeForce RTX 1050,
+OpSys - Windows 11,
+Weight - 2.13kg,
+Price - 56000,
 
 (Note - Just Keep Eye While Inserting Data Like Inches, Ram, Storage, Price And Do Not Forget To Add Proper Suffix, Otherwise It Will Be Not Get Reflected.)
 

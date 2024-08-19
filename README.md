@@ -6,7 +6,7 @@ Intro :- Basically, It's A System To Find A Perfect Laptop For Our Customer. Als
 
 # 1.ADMIN PANEL #
 
-#Admin Login Info 
+#Admin Login Info :-
 #Admin Username - admin
 #Admin Password - 1234
 
@@ -50,11 +50,11 @@ Price - 56000,
 
 
 
-### 2.USER PANEL ###
+# 2.USER PANEL #
 
 #In This, Admin Just Have To Put Customer's Request To The System And We Will Get Result, While Putting User Request's, Admin Can Go Back To Previous Step To Correct Its Request Given.
 
-#After Entering Request -
+#After Entering Request :-
 #1. We Will Get Your Laptop
 #2. System Will Also Give Recommendation Of Other Brand With Same Specification.
 #3. System Will Ask You For More Recommendation, If User Want's, This Time, Recommended Laptop Will Have Same Specification Except Cpu, Ram, Storage, Gpu.

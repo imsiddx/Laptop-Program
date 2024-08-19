@@ -1,4 +1,4 @@
-# Intro :- Basically, It's A System To Find A Perfect Laptop For Our Customer. Also, It Have A Admin Panel, Where Admin Can Modify, Delete  And Insert A New Data. #<br><br><br><br><br>
+# Intro :- Basically, It's A System To Find A Perfect Laptop For Our Customer. Also, It Have A Admin Panel, Where Admin Can Modify, Delete  And Insert A New Data. #<br><br><br>
 
 
 
@@ -63,5 +63,5 @@ Price - 56000<br>
 
 
 
-(Note :- Developer Is Montly Updating This Code, Adding New Features And Removing Bugs. We Request You To Always Download Latest Code)<br>
+(Note :- Developer Is Montly Updating This Code, Adding New Features And Removing Bugs. We Request You To Always Download Latest Code)<br><br><br>
 (Developer - Mr.Sidd ✌)

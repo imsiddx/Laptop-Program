@@ -64,4 +64,4 @@ Price - 56000
 
 
 
-(Note :- Developer Is Weekly Updating This Code, Adding New Features And Removing Bugs. We Request You To Always Download Latest Code)
+(Note :- Developer Is Montly Updating This Code, Adding New Features And Removing Bugs. We Request You To Always Download Latest Code)

@@ -50,7 +50,7 @@ Price - 56000<br>
 
 
 
-# 2.USER PANEL #<br>
+# 2.USER PANEL #
 
 #In This, Admin Just Have To Put Customer's Request To The System And We Will Get Result, While Putting User Request's, Admin Can Go Back To Previous Step To Correct Its Request Given.<br>
 

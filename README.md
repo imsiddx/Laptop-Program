@@ -1,5 +1,5 @@
 # Intro :- Basically, It's A System To Find A Perfect Laptop For Our Customer. Also, It Have A Admin Panel, Where Admin Can Modify, Delete  And Insert A New Data. #
-<br><br><br>
+<br><br>
 
 
 
@@ -12,7 +12,7 @@
 
 
 
-<ins>So, What Admin, Can Basically Do :-<br> </ins>
+<ins>So, What Admin, Can Basically Do :-<br><br> </ins>
 
 <ins>**#1.Inserting** </ins> :- We Can Add A Laptop Data, Anything You Want, Except The Inches And Price Must Be In Integer/Float And Please Don't Forget To Add Suffix While Inserting Data like Weight - 2.15kg). Here, kg Is The Suffix.<br>
 

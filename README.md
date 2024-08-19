@@ -58,12 +58,10 @@ Price - 56000
 #After Entering Request -
 #1. We Will Get Your Laptop
 #2. System Will Also Give Recommendation Of Other Brand With Same Specification.
+#3. System Will Ask You For More Recommendation, If User Want's, This Time, Recommended Laptop Will Have Same Specification Except Cpu, Ram, Storage, Gpu.
 
 
 
 
 
-
-
-
-
+(Note :- Developer Is Regularly Updating This Code, Adding New Features And Removing Bugs. We Request You To Always Download Latest Code)

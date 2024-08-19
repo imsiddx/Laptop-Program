@@ -6,7 +6,7 @@ Intro :- Basically, It's A System To Find A Perfect Laptop For Our Customer. Als
 
 ### 1.ADMIN PANEL ###
 
-# Admin_Login_Info #
+# Admin Login Info #
 #Admin Username - admin
 #Admin Password - 1234
 

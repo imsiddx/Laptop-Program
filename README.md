@@ -7,7 +7,7 @@
 # 1.ADMIN PANEL #
 
 #Admin Login Info :-
-#Admin Username - admin
+#Admin Username - admin<br>
 #Admin Password - 1234
 
 

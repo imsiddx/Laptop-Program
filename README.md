@@ -63,6 +63,7 @@ Price - 56000<br>
 
 
 ______________________________________________________________________________________________________________________________________
+(Please report an issue only for a **bug**, not for asking questions)<br><br>
 (Note :- Developer Is Montly Updating This Code, Adding New Features And Removing Bugs. We Request You To Always Download Latest Code)<br><br>
 (Developer - Mr.Sidd ✌)
 ______________________________________________________________________________________________________________________________________
